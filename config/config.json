@@ -1,0 +1,14 @@
+{
+    "token": "COLOCA_AQUI",
+    "prefix": "!",
+    "sales_channel_id": null,
+    "logs_channel_id": 1482993800766029929,
+    "admin_roles": [
+        1482920201832890469
+    ],
+    "admin_users": [],
+    "embed_color": 3447003,
+    "confirmation_text": "Sua compra foi aprovada! Verifique suas mensagens privadas e seus cargos no servidor.",
+    "default_role": 1482919575132573727,
+    "default_pix": "12344"
+}
